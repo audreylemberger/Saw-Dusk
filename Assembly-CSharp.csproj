@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\HelloWorld.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\ParentFixedJoint.cs" />
+     <Compile Include="Assets\PickUpParent.cs" />
      <Compile Include="Assets\SteamVR\Core\Scripts\BodyCollider.cs" />
      <Compile Include="Assets\SteamVR\Core\Scripts\CircularDrive.cs" />
      <Compile Include="Assets\SteamVR\Core\Scripts\ComplexThrowable.cs" />
