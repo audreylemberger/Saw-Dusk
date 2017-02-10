@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SilhouetteRoom.unity
+- path: Assets/SawDuskRoom.unity
   isLoaded: 1
   isActive: 1
